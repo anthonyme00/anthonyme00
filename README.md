@@ -1,14 +1,20 @@
 ## Hello there! 😊
----
 
 I am a technology enthusiast.
 I work with go, python, c#, and occasionally c++.
 
 Experienced with game 🎮 and web 🌎 development. Currently trying to learn Neural Nets.
 
+---
+
 ![My github stats!](https://github-readme-stats.vercel.app/api?username=anthonyme00&show_icons=true&theme=merko&count_private=true)
 
-You can check me out on [anthonyme00.com](https://anthonyme00.com).
+---
+
+You can check me out on [anthonyme00.com](https://anthonyme00.com).<br>
+
+
+You can also contact me on [LinkedIn](https://www.linkedin.com/in/anthony-mesakh-4647661ba/).
 
 <!--
 **anthonyme00/anthonyme00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
