@@ -1,4 +1,5 @@
-### Hello there! 😊
+## Hello there! 😊
+---
 
 I am a technology enthusiast.
 I work with go, python, c#, and occasionally c++.
