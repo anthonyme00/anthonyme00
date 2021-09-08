@@ -14,7 +14,7 @@ Experienced with game 🎮 and web 🌎 development. Currently trying to learn N
 You can check me out on [anthonyme00.com](https://anthonyme00.com).<br>
 
 
-You can also contact me on [LinkedIn](https://www.linkedin.com/in/anthony-mesakh-4647661ba/).
+You can also contact me on [LinkedIn®](https://www.linkedin.com/in/anthony-mesakh-4647661ba/).
 
 <!--
 **anthonyme00/anthonyme00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
