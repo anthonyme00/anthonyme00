@@ -15,8 +15,8 @@ You can check me out / contact me on:
 
 What to expect | Link 
 ---------------|------
-My Personal Site : | <a href="https://anthonyme00.com"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png" style="height: 1cm;"/></a>
-My LinkedIn Profile :  | <a href="https://www.linkedin.com/in/anthony-mesakh-4647661ba/"><img src="LinkedInLogo.png" style="height: 1cm;"/></a>
+My personal site : | <a href="https://anthonyme00.com"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png" style="height: 1cm;"/></a>
+My LinkedIn profile :  | <a href="https://www.linkedin.com/in/anthony-mesakh-4647661ba/"><img src="LinkedInLogo.png" style="height: 1cm;"/></a>
 My Gamejolt profile :  | <a href="https://gamejolt.com/anthonyme00"><img src="Gamejolt.png" style="height: 1cm;"/></a>
 
 
