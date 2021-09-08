@@ -13,9 +13,9 @@ Experienced with game 🎮 and web 🌎 development. Currently trying to learn N
 
 You can check me / contact me on: 
 
-[<p style="font-size:50px;">🌏</p>](https://anthonyme00.com)
-[<img src="LinkedInLogo.png" width="50px"/>](https://www.linkedin.com/in/anthony-mesakh-4647661ba/)
-
+<a href="https://anthonyme00.com"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png" style="height: 1cm;"/></a>
+<a href="https://www.linkedin.com/in/anthony-mesakh-4647661ba/" style="padding-left: 1cm;"><img src="LinkedInLogo.png" style="height: 1cm;"/></a>
+<a href="https://gamejolt.com/anthonyme00" style="padding-left: 1cm;"><img src="Gamejolt.svg"/></a>
 
 <!--
 **anthonyme00/anthonyme00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
